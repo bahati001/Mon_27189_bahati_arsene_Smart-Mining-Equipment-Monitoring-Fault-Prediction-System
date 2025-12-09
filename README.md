@@ -35,8 +35,8 @@ Security and access control
 
 To support equipment health evaluation, a new column is added to the Equipment table:
 
-'''ALTER TABLE Equipment
-ADD Health_Status VARCHAR2(20);'''
+```ALTER TABLE Equipment
+ADD Health_Status VARCHAR2(20);```
 
 
 📌 Purpose
